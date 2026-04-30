@@ -1110,6 +1110,66 @@ export async function onRequest() {
         </style>
 </head>
 <body>
+<div id="gb">
+  <script>
+    window.gbar && gbar.eli && gbar.eli()
+  </script>
+  <div id="gbw">
+    <div id="gbz">
+      <span class="gbtcb"></span>
+      <ol id="gbzc" class="gbtc">
+        <li class="gbt">
+          <a onclick="gbar.logger.il(1,{t:1});" class="gbzt gbz0l gbp1" id="gb_1" href="http://www.google.com/webhp?hl=en&amp;tab=ww">
+            <span class="gbtb2"></span>
+            <span class="gbts">Search</span>
+          </a>
+        </li>
+        <li class="gbt">
+          <a onclick="gbar.qs(this);gbar.logger.il(1,{t:2});" class="gbzt" id="gb_2" href="http://www.google.com/imghp?hl=en&amp;tab=wi">
+            <span class="gbtb2"></span>
+            <span class="gbts">Google Images</span>
+          </a>
+        </li>
+        <li class="gbt">
+          <a onclick="gbar.qs(this);gbar.logger.il(1,{t:8});" class="gbzt" id="gb_8" href="http://maps.google.com/maps?hl=en&amp;tab=wl">
+            <span class="gbtb2"></span>
+            <span class="gbts">Google Maps</span>
+          </a>
+        </li>
+        <li class="gbt">
+          <a onclick="gbar.logger.il(1,{t:78});" class="gbzt" id="gb_78" href="https://play.google.com/?hl=en&amp;tab=w8">
+            <span class="gbtb2"></span>
+            <span class="gbts">Google Play</span>
+          </a>
+        </li>
+        <li class="gbt">
+          <a onclick="gbar.qs(this);gbar.logger.il(1,{t:36});" class="gbzt" id="gb_36" href="http://vidtape.lol/?tab=w1">
+            <span class="gbtb2"></span>
+            <span class="gbts">VidTape</span>
+          </a>
+        </li>
+        <li class="gbt">
+          <a onclick="gbar.logger.il(1,{t:5});" class="gbzt" id="gb_5" href="http://news.google.com/nwshp?hl=en&amp;tab=wn">
+            <span class="gbtb2"></span>
+            <span class="gbts">Google News</span>
+          </a>
+        </li>
+        <li class="gbt">
+          <a onclick="gbar.logger.il(1,{t:23});" class="gbzt" id="gb_23" href="https://mail.google.com/mail/?tab=wm">
+            <span class="gbtb2"></span>
+            <span class="gbts">Gmail</span>
+          </a>
+        </li>
+        <li class="gbt">
+          <a onclick="gbar.logger.il(1,{t:25});" class="gbzt" id="gb_25" href="https://drive.google.com/?tab=wo">
+            <span class="gbtb2"></span>
+            <span class="gbts">Google Drive</span>
+          </a>
+        </li>
+      </ol>
+    </div>
+  </div>
+</div>
 <center>
             <br clear="all" id="lgpd">
             <div id="lga">
