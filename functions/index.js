@@ -4,7 +4,7 @@ export async function onRequest() {
 <head>
 <meta content="Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for." name="description">
 <meta content="noodp" name="robots">
-<meta itemprop="image" content="/images/google_favicon_128.png">
+<meta itemprop="image" content="google_favicon_128.png">
 <title>Google</title>
 <script>
 (function(){window.google={kEI:"pK1kUZiFG8GjigKj1YHoDg",getEI:function(a){for(var b;a&&(!a.getAttribute||!(b=a.getAttribute("eid")));)a=a.parentNode;return b||google.kEI},https:function(){return"https:"==window.location.protocol},kEXPI:"17259",kCSI:{ei:"pK1kUZiFG8GjigKj1YHoDg"},authuser:0,ml:function(){},kHL:"en",time:function(){return(new Date).getTime()},log:function(){},lc:[],li:0,Toolbelt:{},y:{},x:function(a,b){google.y[a.id]=[a,b];return!1},load:function(a,b){google.x({id:"l"+a},function(){google.load(a,b)})}}})(); 
@@ -271,8 +271,8 @@ export async function onRequest() {
             }
 
             .gbtb .gbts {
-                background: url(//ssl.gstatic.com/gb/images/b_8d5afc09.png);
-                _background: url(//ssl.gstatic.com/gb/images/b8_3615d64d.png);
+                background: url(//ssl.gstatic.com/gbb_8d5afc09.png);
+                _background: url(//ssl.gstatic.com/gbb8_3615d64d.png);
                 background-position: -27px -22px;
                 border: 0;
                 font-size: 0;
@@ -381,8 +381,8 @@ export async function onRequest() {
             }
 
             #gbi5 {
-                background: url(//ssl.gstatic.com/gb/images/b_8d5afc09.png);
-                _background: url(//ssl.gstatic.com/gb/images/b8_3615d64d.png);
+                background: url(//ssl.gstatic.com/gbb_8d5afc09.png);
+                _background: url(//ssl.gstatic.com/gbb8_3615d64d.png);
                 background-position: 0 0;
                 display: block;
                 font-size: 0;
@@ -1080,7 +1080,7 @@ export async function onRequest() {
             }
 
             .lsb {
-                background: url(/images/srpr/nav_logo80.png) 0 -258px repeat-x;
+                background: url(nav_logo80.png) 0 -258px repeat-x;
                 border: none;
                 color: #000;
                 cursor: pointer;
@@ -1090,6 +1090,9 @@ export async function onRequest() {
                 font: 15px arial,sans-serif;
                 vertical-align: top
             }
+                div#gb {
+    background-color: #2d2d2d;
+}
 
             #fll a {
                 display: inline-block;
@@ -1119,7 +1122,7 @@ export async function onRequest() {
       <span class="gbtcb"></span>
       <ol id="gbzc" class="gbtc">
         <li class="gbt">
-          <a onclick="gbar.logger.il(1,{t:1});" class="gbzt gbz0l gbp1" id="gb_1" href="http://www.google.com/webhp?hl=en&amp;tab=ww">
+          <a onclick="gbar.logger.il(1,{t:1});" class="gbzt gbz0l gbp1" id="gb_1" href="/?hl=en&amp;tab=ww">
             <span class="gbtb2"></span>
             <span class="gbts">Search</span>
           </a>
